@@ -1,7 +1,5 @@
 ## Hi, I'm Meron Ogbai 👋
 
----
-
 <img align="right" width="150" src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif">
 
 ### Freelance Full Stack Developer
