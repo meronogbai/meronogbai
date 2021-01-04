@@ -16,15 +16,17 @@
 
 ```javascript
 const meron = {
-  pronouns: ['he', 'him'],
-  languages: ['English', 'Arabic', 'Tigrigna'],
+  pronouns: ["he", "him"],
+  languages: ["English", "Arabic", "Tigrigna"],
   code: {
-    languages: ['Ruby', 'Javascript', 'HTML', 'CSS'],
-    frameworks: ['Ruby on Rails', 'Bootstrap'],
-    toolsAndMethods: ['OOP', 'REST', 'MVC', 'TDD', 'RSpec', 'Chrome Dev Tools', 'Sass', 'Webpack']
+    languages: ["Ruby", "Javascript", "HTML", "CSS"],
+    frameworks: ["Ruby on Rails", "Bootstrap"],
+    toolsAndMethods: ["OOP", "REST", "MVC", "TDD", "Chrome Dev Tools", "Sass", "RSpec", "Webpack", "Heroku", "Netlify"]
   },
  challenge: "I'm improving my skills in algorithms and data structures."
 }
 ```
+
+I'm looking for new opportunities, so if you're interested, please say [hi](mailto:okbaymeron@gmail.com?subject=Opportunity) 😁
 
 ---
