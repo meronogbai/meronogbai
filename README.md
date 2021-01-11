@@ -13,7 +13,7 @@ const meron = {
   pronouns: ["he", "him"],
   languages: ["English", "Arabic", "Tigrigna"],
   code: {
-    languages: ["Ruby", "Javascript", "SQL", "HTML", "CSS"],
+    languages: ["Ruby", "Python", "Javascript", "SQL", "HTML", "CSS"],
     frameworks: ["Ruby on Rails", "Bootstrap"],
     toolsAndMethods: ["OOP", "REST", "MVC", "TDD", "Chrome Dev Tools", "PostgreSQL", "MySQL","Sass", "RSpec", "Webpack", "Heroku", "Netlify"]
   },
