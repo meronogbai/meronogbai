@@ -13,9 +13,9 @@ const meron = {
   pronouns: ["he", "him"],
   languages: ["English", "Arabic", "Tigrigna"],
   code: {
-    languages: ["Ruby", "Python", "Javascript", "SQL", "HTML", "CSS"],
+    languages: ["Ruby", "Javascript", "Python", "Bash", "SQL", "HTML", "CSS"],
     frameworks: ["Ruby on Rails", "Bootstrap"],
-    toolsAndMethods: ["OOP", "REST", "MVC", "TDD", "Chrome Dev Tools", "PostgreSQL", "MySQL","Sass", "RSpec", "Webpack", "Heroku", "Netlify"]
+    tools: ["Sass", "RSpec", "Capybara", "Webpack", "Jest", "Babel", "PostgreSQL", "MySQL", "Heroku", "Netlify", "Chrome Dev Tools", "Linux"]
   },
  challenge: "I'm improving my skills in algorithms and data structures."
 }
