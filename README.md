@@ -2,9 +2,10 @@
 
 Freelance Full-Stack Developer
 
+[![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=1E40AF)](https://meronogbai.me)
+[![Blog](https://img.shields.io/static/v1?label=&message=Blog&color=1a8917)](https://meronogbai.medium.com/)
 [![Linkedin: meron-ogbai](https://img.shields.io/static/v1?label=&message=Linkedin&color=0a66c2)](https://www.linkedin.com/in/meron-ogbai/)
 [![Twitter: @MeronDev](https://img.shields.io/static/v1?label=&message=Twitter&color=1da1f2)](https://twitter.com/MeronDev)
-[![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=072f5f)](https://meronokbay.github.io/portfolio/)
 
 ### A bit about me
 
@@ -13,11 +14,10 @@ const meron = {
   pronouns: ["he", "him"],
   languages: ["English", "Arabic", "Tigrigna"],
   code: {
-    languages: ["Ruby", "Javascript", "Python", "Bash", "SQL", "HTML", "CSS"],
-    frameworks: ["Ruby on Rails", "Bootstrap"],
-    tools: ["Sass", "RSpec", "Capybara", "Webpack", "Jest", "Babel", "PostgreSQL", "MySQL", "Heroku", "Netlify", "Chrome Dev Tools", "Linux"]
+    languages: ["Ruby", "Javascript", "Bash", "SQL", "HTML", "CSS"],
+    frameworks: ["Rails", "React/Redux", "TailwindCSS", "Bootstrap"],
   },
- challenge: "I'm improving my skills in algorithms and data structures."
+ challenge: "I'm improving my skills in DSA."
 }
 ```
 
