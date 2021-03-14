@@ -1,4 +1,4 @@
-## Hi, I'm Meron Ogbai 👋
+## Hi, I'm Meron 👋
 
 Freelance Full-Stack Developer
 
@@ -13,11 +13,12 @@ Freelance Full-Stack Developer
 const meron = {
   pronouns: ["he", "him"],
   languages: ["English", "Arabic", "Tigrigna"],
-  code: {
-    languages: ["Ruby", "Javascript", "Bash", "SQL", "HTML", "CSS"],
-    frameworks: ["Rails", "React/Redux", "TailwindCSS", "Bootstrap"],
-  },
- challenge: "I'm improving my skills in DSA."
+  code: ["Rails", "React"],
+  funFacts: [
+    "I change my desktop wallpaper every other week.",
+    "My go-to font is Roboto."
+  ],
+  challenge: "I'm improving my skills in DSA."
 }
 ```
 
@@ -26,5 +27,3 @@ const meron = {
 ![Meron's github stats](https://github-readme-stats.vercel.app/api?username=meronokbay&show_icons=true)
 
 I'm looking for new opportunities, so if you're interested, please say [hi](mailto:okbaymeron@gmail.com?subject=Opportunity) 😁
-
----
