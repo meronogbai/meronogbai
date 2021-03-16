@@ -24,6 +24,6 @@ const meron = {
 
 ### My stats
 
-![Meron's github stats](https://github-readme-stats.vercel.app/api?username=meronokbay&show_icons=true)
+![Meron's github stats](https://github-readme-stats.vercel.app/api?username=meronokbay&count_private=true&show_icons=true)
 
 I'm looking for new opportunities, so if you're interested, please say [hi](mailto:okbaymeron@gmail.com?subject=Opportunity) 😁
